@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696974810063",
+    "firebase_url": "https://chai-crew.firebaseio.com",
+    "project_id": "chai-crew",
+    "storage_bucket": "chai-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696974810063:android:62306fe7feca15bc70d0ba",
+        "android_client_info": {
+          "package_name": "com.hunter.chai_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696974810063-t96010av60ih77ee6tn29ji97tnlbquu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB47mNf0ISug6TNxSeFeJAPSZqW9kQ7JhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696974810063-t96010av60ih77ee6tn29ji97tnlbquu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
